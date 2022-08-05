@@ -5,7 +5,7 @@ This is the repo for PraSaga training.
 
 Setup Instructions:
 
-0. Make an account at xbom.io
+0. Make an account at xbom.io and understand the inspiration behind PraSaga: https://www.youtube.com/watch?v=GkIPFbS4RDM
 1. Download Docker. Register account at hub.docker.com and signin with same cred in desktop Docker. 
 
 2. Setup Amazon Workspaces as per https://www.youtube.com/watch?v=U4V44EFJeLs > create new directory > register > 
